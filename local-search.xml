@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>fluid主题鼠标点击时添加爱心特效</title>
+    <link href="/2020/12/07/fluid%E4%B8%BB%E9%A2%98%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E6%97%B6%E6%B7%BB%E5%8A%A0%E7%88%B1%E5%BF%83%E7%89%B9%E6%95%88/"/>
+    <url>/2020/12/07/fluid%E4%B8%BB%E9%A2%98%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E6%97%B6%E6%B7%BB%E5%8A%A0%E7%88%B1%E5%BF%83%E7%89%B9%E6%95%88/</url>
+    
+    <content type="html"><![CDATA[<ul><li>新建click-love.js</li><li>在layout文件中引入</li><li>再hexo clean、hexo  g、hexo d三连</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ssh登录</title>
     <link href="/2020/12/07/ssh%E7%99%BB%E5%BD%95/"/>
     <url>/2020/12/07/ssh%E7%99%BB%E5%BD%95/</url>
